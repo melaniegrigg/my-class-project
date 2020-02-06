@@ -6,7 +6,7 @@ html , body {
    display: flex;
    justify-content: center;
    align-items: center;
-   background: url('../img/wow.png') bottom center no-repeat;
+   background: url('../img/mushroom.jpg') bottom center no-repeat;
    background-size: cover;
    font-size: 1em;
  }
@@ -15,7 +15,7 @@ html , body {
    display: flex;
    justify-content: center;
    align-items: center;
-   background: url('../img/wow.png') bottom center no-repeat;
+   background: url('../img/mushroom.jpg') bottom center no-repeat;
    background-size: cover;
    font-size: 1em;
  }
@@ -23,12 +23,12 @@ html , body {
 .centered {
   padding: 0 3.125em;
   font-family:'Montserrat', sans-serif;
-  background: #f16059;
+  background: #8080ff;
 }
 
 h1 {
-  font-size: 2em;
-  color: #fff;
+  font-size: 2.5em;
+  color: #00001a;
   text-align: center;
 }
 
